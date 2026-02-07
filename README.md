@@ -52,13 +52,6 @@
 
 ---
 
-# 🧩 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=snehasish1612&theme=algolia&row=1&column=6" />
-</p>
-
----
-
 # 📊 GitHub Stats & Activity  
 <p align="center">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=snehasish1612&show_icons=true&theme=tokyonight" />

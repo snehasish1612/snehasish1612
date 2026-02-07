@@ -59,7 +59,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=snehasish1612&theme=tokyo-night" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=snehasish1612&theme=tokyo-night" />
 </p>
 
 ---

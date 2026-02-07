@@ -104,10 +104,5 @@ HTML5, CSS3, Bootstrap 5, JavaScript
 
 ---
 
-# 📊 GitHub Stats
-![Snehasish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=snehasish1612&show_icons=true)
-
----
-
 Thanks for visiting my profile! 😊  
 Feel free to check out my projects and connect with me.

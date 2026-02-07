@@ -27,7 +27,7 @@
 
 ### **Languages**
 <p>
-  <img src="https://skillicons.dev/icons?i=java,c,cpp,python" />
+  <img src="https://skillicons.dev/icons?i=java,c,cpp" />
 </p>
 
 ### **Frontend**

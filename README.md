@@ -1,108 +1,124 @@
-# 👋 Hi, I'm Snehasish Mukherjee!
+<!-- Animated Typing Header -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=4000&color=00A8F7&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Snehasish+Mukherjee!;Full-Stack+Developer+in+Making;Java+Backend+%7C+SQL+%7C+Frontend+Developer;Always+Learning+%7C+Always+Building" />
+</h1>
 
-🎯 **Aspiring Full-Stack Developer | Java Backend | SQL | Frontend Developer**  
-🎓 B.Tech in ECE, Dr. Sudhir Chandra Sur Institute of Technology (MAKAUT)  
-📍 Kolkata, India
+<!-- Profile Views -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=snehasish1612&label=Profile%20Views&color=blue&style=flat" />
+</p>
+
+---
+
+# 👨‍💻 About Me  
+
+🎯 **Aspiring Full-Stack Developer**  
+💻 Java Backend | SQL | Frontend (HTML, CSS, JS, Bootstrap)  
+🎓 B.Tech (ECE) – MAKAUT | 2022–26  
+📍 Kolkata, India  
 
 🔗 **Portfolio:** https://portfolio-snehasish-mukherjee.netlify.app  
 🔗 **LinkedIn:** https://linkedin.com/in/snehasish1612  
 🔗 **GitHub:** https://github.com/snehasish1612  
-📩 **Email:** snehasish1612@gmail.com  
 
 ---
 
-## 🚀 Career Objective
-Aspiring to work with a reputable organization where I can contribute my technical skills and grow professionally.  
-My short-term goal is to secure a challenging role to enhance my technical & interpersonal skills.  
-Long-term goal: evolve into a key contributor & leader driving innovation and efficiency.
+# 🚀 Tech Stack & Tools  
+
+### **Languages**
+<p>
+  <img src="https://skillicons.dev/icons?i=java,c,cpp,python" />
+</p>
+
+### **Frontend**
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" />
+</p>
+
+### **Backend**
+<p>
+  <img src="https://skillicons.dev/icons?i=spring,java" />
+</p>
+
+### **Database**
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
+### **Tools**
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse" />
+</p>
 
 ---
 
-# 🛠️ Technical & Behavioural Skills
-
-### **Programming Languages**
-- Java, C, C++
-
-### **Frontend Technologies**
-- HTML5, CSS3, JavaScript, Bootstrap, UI/UX Design
-
-### **Database Systems**
-- MySQL, MS SQL, Oracle
-
-### **Tools & Platforms**
-- Git, GitHub, VS Code, Eclipse
-
-### **Behavioural Skills**
-- Problem-Solving, Communication, Teamwork, Quick Learner, Time Management
+# 🧩 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=snehasish1612&theme=algolia&row=1&column=6" />
+</p>
 
 ---
 
-# 📚 Education
-**🎓 B.Tech in ECE**, Dr. Sudhir Chandra Sur Institute of Technology  
-(MAKAUT) | **2022–26**  
-- YGPA: 1st Year – **8.87**, 2nd Year – **8.07**, 3rd Year – **7.52**  
-- 7th Sem SGPA – **8.42**  
-- Currently in **8th Sem**
+# 📊 GitHub Stats & Activity  
+<p align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=snehasish1612&show_icons=true&theme=tokyonight" />
+  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=snehasish1612&theme=tokyonight" />
+</p>
 
-**📘 Class XII (WBCHSE)**  
-Krishnapur Adarsha Vidyamandir | 2022 | **91%**
-
-**📗 Class X (WBBSE)**  
-Krishnapur Adarsha Vidyamandir | 2020 | **93%**
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=snehasish1612&theme=react-dark" />
+</p>
 
 ---
 
-# 🚀 Projects
+# 🌟 Featured Projects  
 
-### 🔹 **Diagnostic Management System** — *Full-Stack (Oct 2025 – Dec 2025)*  
-**Tech:** Java (JSP + Servlets), JDBC, MySQL, HTML, CSS, Bootstrap  
-- Web-based system to manage patient records, appointments, and medical history  
-- Secure data handling using Java Servlets + JDBC  
-- Efficient database connectivity and patient information retrieval  
-➡️ GitHub: https://github.com/snehasish1612/DiagnosticManagementSystem
+### 🔹 **Diagnostic Management System**  
+✔ Java (JSP + Servlets), JDBC, MySQL, HTML, CSS, Bootstrap  
+✔ Manages patients, appointments, medical history  
+🔗 Repo: https://github.com/snehasish1612/DiagnosticManagementSystem  
 
 ---
 
-### 🔹 **Moodify – Mood-Based Music Recommendation System** — *API Project (Dec 2025 – Jan 2026)*  
-**Tech:** Java 17, Spring Boot (basic), REST APIs, WebClient, Google Gemini API,  
-HTML5, CSS3, Bootstrap 5, JavaScript  
-- AI-based music recommendation system using Google Gemini API  
-- Dynamic UI + API-driven suggestions  
-➡️ GitHub: https://github.com/snehasish1612/Moodify
+### 🔹 **Moodify – AI Mood-Based Music Recommender**  
+✔ Java 17, Spring Boot (basic), REST APIs  
+✔ Google Gemini API + WebClient  
+✔ AI-based music recommendation  
+🔗 Repo: https://github.com/snehasish1612/Moodify  
 
 ---
 
-### 🔹 **My India – Explore the Diversity of India** — *Frontend Project (Aug 2025)*  
-**Tech:** HTML5, CSS3, Bootstrap 5, JavaScript, Netlify  
-- Responsive multi-page website on culture, states, food, history, travel  
-- Clean UI + consistency across pages  
-➡️ GitHub: https://github.com/snehasish1612/my-india-website
+### 🔹 **My India – Explore the Diversity of India**  
+✔ HTML5, CSS3, Bootstrap 5, JavaScript  
+✔ Multi-page cultural website  
+🔗 Repo: https://github.com/snehasish1612/my-india-website  
 
 ---
 
-# 🏆 Certifications
-- **Programming in Java — NPTEL (IIT Kharagpur)**  
-  Score: **99% (Top 1%)**  
-- **Full Stack — MTA Learning Private Limited**
-- **Introduction to Operating Systems — NPTEL (IIT Madras)**
+# 📜 Certifications  
 
-(All certificate links included in CV)
+🏅 **Programming in Java (NPTEL – IIT Kharagpur) – 99% (Top 1%)**  
+🏅 **Full Stack Certification – MTA Learning Pvt. Ltd.**  
+🏅 **Introduction to Operating Systems (NPTEL – IIT Madras)**  
 
 ---
 
-# 🏅 Extra-Curricular Activities
-- Participated in inter-college hackathons  
-- Represented college in **JIS Samman Cricket Tournament**  
-- Won school-level quiz competitions  
+# 🎯 Areas of Interest  
+- Full-Stack Development  
+- Java Backend Development  
+- Learning & experimenting with emerging tech  
+- Mentoring juniors  
+- Travelling & exploring  
 
 ---
 
-# ❤️ Areas of Interest
-- Travelling & exploring new places  
-- Learning emerging technologies  
-- Guiding & mentoring juniors  
+# 🤝 Let's Connect!  
+<p align="center">
+  <a href="https://linkedin.com/in/snehasish1612"><img src="https://skillicons.dev/icons?i=linkedin"></a>
+  <a href="mailto:snehasish1612@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"></a>
+  <a href="https://github.com/snehasish1612"><img src="https://skillicons.dev/icons?i=github"></a>
+</p>
 
 ---
 
-Thanks for visiting my profile! 😊  
-Feel free to check out my projects and connect with me.
+⭐ **Thanks for visiting my profile!**  

@@ -52,28 +52,22 @@
 
 ---
 
-# <img src="https://cdn-icons-png.flaticon.com/512/1829/1829479.png" width="30"/>📊 GitHub Stats & Activity
+# <img src="https://cdn-icons-png.flaticon.com/512/1829/1829479.png" width="30"/> GitHub Stats & Activity
 
-<!-- Stats & Streak -->
+<hr/>
+
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=snehasish1612&show_icons=true&theme=tokyonight&hide_border=true" />
   <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=snehasish1612&theme=tokyonight&hide_border=true" />
 </p>
 
----
+<hr/>
 
-<!-- Contribution Graph -->
 <p align="center">
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=snehasish1612&theme=tokyo-night&hide_border=true&area=true" />
 </p>
 
----
-
-<!-- Contributor Stats -->
-<p align="center">
-  <img width="700" src="https://github-contributor-stats.vercel.app/api?username=snehasish1612&limit=5&theme=tokyonight&hide_border=true&combine_all_yearly_contributions=true" />
-</p>
-
+<hr/>
 
 ---
 

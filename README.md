@@ -81,10 +81,10 @@
 
 ---
 
-### 🔹 **My India – Explore the Diversity of India**  
-✔ HTML5, CSS3, Bootstrap 5, JavaScript  
-✔ Multi-page cultural website  
-🔗 Repo: https://github.com/snehasish1612/my-india-website  
+### 🔹 **Hidden Trails AI**  
+✔ Java (JSP/Servlets), MySQL, HTML, CSS, Bootstrap, JavaScript, REST APIs 
+✔ AI-powered travel platform for North Bengal & Sikkim with itinerary generation and package customization  
+🔗 Repo: https://github.com/snehasish1612/HiddenTrailsAI
 
 ---
 
